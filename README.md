@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Movie Review App using Create React App & TMDB API
+
+TMDB API : The Movie Database API
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
