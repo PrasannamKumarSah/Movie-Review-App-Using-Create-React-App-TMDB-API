@@ -1,8 +1,9 @@
 # Movie Review App using Create React App & TMDB API
 ##Tech Used
-TMDB API : The Movie Database API that have the details of the movie and returns the value as per the request.
+create-react-app : It's main function is to create all the requied files for creating app with some basic and necessary settings and configuration. \
+TMDB API : The Movie Database API that have the details of the movie and returns the value as per the request. \
 react-responsive-carosal : https://www.npmjs.com/package/react-responsive-carousel \
-react-loading-skeleton : https://www.npmjs.com/package/react-loading-skeleton \
+react-loading-skeleton : https://www.npmjs.com/package/react-loading-skeleton 
 
 ## Getting Started with Create React App
 
